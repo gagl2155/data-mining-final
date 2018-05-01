@@ -48,6 +48,6 @@ The most effective way that we can apply the knowledge that we have found would 
 
 # Link to Video: https://youtu.be/AfUFPRgMf14
 
-# Link to Final Report: [Final Report](data-mining-final/06_MakeChicagoSafeAgain_Part4.pdf)
+# Link to Final Report: [Final Report](https://github.com/gagl2155/data-mining-final/06_MakeChicagoSafeAgain_Part4.pdf)
 
 
