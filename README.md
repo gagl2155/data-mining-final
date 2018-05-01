@@ -48,6 +48,6 @@ The most effective way that we can apply the knowledge that we have found would 
 
 # Link to Video: https://youtu.be/AfUFPRgMf14
 
-# Link to Final Report:
+# Link to Final Report: [Final Report](Data06_MakeChicagoSafeAgain_Part4.pdf)
 
 
